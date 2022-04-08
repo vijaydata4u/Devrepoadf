@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "HttpServer",
 		"typeProperties": {
-			"url": "https://github.com/vijaydata4u/zipfileupload/raw/main/Match.zip",
+			"url": "https://github.com/vijaydata4u/zipfileupload/raw/main/skilldatasetdemo.zip",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous"
 		}
